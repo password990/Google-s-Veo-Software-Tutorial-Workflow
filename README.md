@@ -1,34 +1,43 @@
-# YouTube Tutorial Video Workflow (Veo 3)
+# Google Veo Software Tutorial Workflow
 
-A Veo-oriented adaptation of the host-led software tutorial workflow. It combines a real presenter and authentic screen recordings with short, generated Veo establishing or illustrative clips.
+A creator-led software tutorial workflow for Google Veo. It combines a presenter, real screen recordings, generated Veo inserts, and a **fictional document pack** that is created before filming and reused consistently throughout the video.
+
+## What changed in the production flow
+
+The workflow now begins with realistic, internally consistent example documents. It defines the scenario, people, dates, figures, and source relationships first; creates polished source files and a finished example output; checks the pack for contradictions; and then plans the tutorial around those exact documents. The on-screen demonstration opens those files and uses them in the actual software being taught.
+
+The documents should look like credible working materials—meeting minutes, survey summaries, budget notes, reports, briefs, forms, or other artifacts relevant to the lesson—with professional hierarchy, metadata, tables, realistic language, and complete content. They must remain clearly fictional training materials and must not imitate real people, companies, government agencies, credentials, or authentic official records.
 
 ## Reference style
 
-The supplied reference is a 10:13, 16:9 software tutorial. A seated host speaks to camera, alternating with readable full-screen desktop demonstrations. The host introduces the goal, explains decisions and returns for recap; the screen capture carries the exact steps. The edit uses occasional cursor emphasis, controlled crops/zooms, a title and a lower third. The style is practical and creator-led, not a cinematic fictional story.
+The supplied reference is a 10:13, 16:9 software tutorial. A seated host speaks to camera, alternating with readable full-screen desktop demonstrations. The host introduces the goal, explains decisions and returns for recap; screen capture carries the exact steps. The edit uses occasional cursor emphasis, controlled crops/zooms, a title and a lower third. The style is practical and creator-led, not a cinematic fictional story.
 
 ## Veo production approach
 
-Veo clips are short, so treat them as inserts rather than asking one generation to create the whole tutorial. For a software walkthrough, capture the actual product interface separately. Use Veo for a short opening atmosphere/result metaphor, workspace cutaways, or a consistent host shot if the chosen interface and model supports the needed controls. Record the real host and voice when possible. Do not let generated UI stand in for genuine steps.
+Veo generates short illustrative clips and optional host segments. It does not replace the real product interface or the real example documents. Capture actual documents and software actions separately, with synthetic data only. Add titles and labels in the editor, not in generated imagery.
 
 ## Files
 
-- `SYSTEM_PROMPT.md` — reusable Veo-specific production instructions.
-- `sample/README.md` — original sample concept and scene plan.
-- `sample/SCRIPT.md` — original narration.
-- `sample/VEO_PROMPTS.md` — shot-sized prompts for Veo 3.
+- `SYSTEM_PROMPT.md` — reusable Veo-specific production instructions, including document-pack creation.
+- `sample/README.md` — sample concept, document-pack design, and scene plan.
+- `sample/SCRIPT.md` — original tutorial narration.
+- `sample/VEO_PROMPTS.md` — optional Veo insert prompts.
+- `sample/DOCUMENT_PACK.md` — document facts, consistency ledger, and source relationships.
+- `sample/documents/` — polished HTML versions of the fictional example files that can be opened and captured on screen. The accompanying DOCX files are included in the local deliverables folder when generated.
 
 ## Start a production
 
 1. Load `SYSTEM_PROMPT.md` into your production agent.
-2. Supply topic, target viewer, ratio, runtime, Veo interface (Flow, Gemini, or Vertex AI), and whether you have host footage.
-3. Verify the currently selected model, supported clip lengths, aspect ratios, reference/image features, sound options, and export behavior in the actual UI before batching generations.
-4. Generate short Veo clips, capture the real screen walkthrough, record host/narration, and assemble them in a timeline editor.
+2. Supply topic, target viewer, ratio, runtime, Veo interface, host availability, and desired example-document formats.
+3. The agent designs and creates the fictional document pack first, then checks the facts across files.
+4. Use those exact documents in the actual software demonstration; capture the real app and real outputs.
+5. Verify the selected Veo model's current settings before generating short inserts, record the host and screen steps, and assemble in a timeline editor.
 
 ## Model note
 
-Veo product features and model names change. Google documentation currently distinguishes capabilities by model and interface. Classic Veo 3 on Vertex AI documents text-to-video, generated sound, 16:9/9:16, and 4/6/8-second clips; Flow exposes a changing set of Veo 3.1 variants and feature support. Check the live model settings and official docs linked from `SYSTEM_PROMPT.md` before production.
+Veo product features and model names change. Google documentation distinguishes capabilities by model and interface. Check the active model settings and official docs linked from `SYSTEM_PROMPT.md` before production.
 
 ## Output status
 
-The sample is a complete script, storyboard, and Veo prompt pack. No generated clips or finished tutorial video are included; rendering requires access to Veo and a timeline editor.
+The sample includes a script, storyboard, document-pack specification, screen-ready fictional documents, and Veo prompts. No generated Veo clips or finished tutorial video are included; rendering requires access to Veo and a timeline editor.
 
