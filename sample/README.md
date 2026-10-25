@@ -1,25 +1,42 @@
-# Sample: From scattered notes to a cited briefing (Veo 3)
+# Sample: From garden research files to a decision brief
 
-**Format:** 16:9 creator-led software tutorial · **Target:** 2 minutes · **Audience:** curious knowledge workers · **Narrator:** original, newly recorded host voice
+**Format:** 16:9 host-led software tutorial · **Runtime:** 2 minutes · **Topic:** use a research assistant to draft a cited decision brief from realistic sample files.
 
-**Promise:** Turn three fictional research notes into a concise briefing, then verify a cited claim. This sample is original; it does not copy dialogue or frames from the reference tutorial.
+## Example document pack created before filming
 
-## Runtime and scene plan
+The pack contains four internally linked fictional records for a proposed Riverside Hall community garden pilot in Northbridge:
 
-| Time | Shot | Spoken purpose | Visual | Audio / edit |
+1. `01_Pilot_Planning_Meeting_Minutes.docx` — decision boundaries, conditions, owners, and due dates.
+2. `02_Neighbourhood_Pulse_Survey_Summary.docx` — 86 informal responses, calculated shares, limitations, and planning themes.
+3. `03_Pilot_Budget_and_Operating_Note.docx` — itemized one-time and annual estimates with assumptions and exclusions.
+4. `04_Riverside_Garden_Pilot_Decision_Brief.docx` — a recommendation grounded in the first three files, not a site approval or spending authorization.
+
+These files use invented people, project details, figures, dates, and roles. Each carries a visible fictional-training label. The DOCX versions are polished, editable example files; matching screen-ready versions are available in `documents/` where included.
+
+## Consistency ledger
+
+- Survey sample: 86 respondents; 59 support exploring a pilot (68.6%), 18 unsure (20.9%), 9 do not support (10.5%). Multiple-choice benefit/concern responses are not mutually exclusive.
+- Early benefit themes: fresh produce 62; meeting neighbours 55; youth learning 44.
+- Planning conditions: written site confirmation, accessible layout, 8 recurring volunteers plus backup, written supplier prices.
+- Setup estimate: $6,850; annual operating estimate: $1,750; illustrative 10% setup reserve: $685; provisional ceiling: $7,535 before tax.
+- Status: feasibility proposal only. No site approval, purchases, or construction authorization.
+
+## Scene plan
+
+| Time | Shot | Spoken purpose | Visible action | Audio / edit |
 |---|---|---|---|---|
-| 0:00–0:05 | Real screen capture | Preview the completed briefing and its source references. | Actual result from selected software; highlight one citation. | Host VO starts immediately. |
-| 0:05–0:09 | Optional Veo insert | Set a visual tone for turning scattered material into a clear plan. | 4-second overhead shot of three anonymous paper notes becoming a tidy organized stack; no text. | No dialogue; soft paper movement only if desired. |
-| 0:09–0:23 | Host | Explain the scattered-notes problem and the goal. | Real host at desk, medium shot, softly lit shelves; title is added later in editor. | Direct-to-camera recorded line. |
-| 0:23–0:39 | Real screen capture | Prepare a small demo folder. | Three synthetic notes and folder in the actual OS/app. | Same host voiceover; slow cursor. |
-| 0:39–0:50 | Host | Explain why a small, scoped test is useful. | Host returns with same framing. | Hard cut at sentence boundary. |
-| 0:50–1:11 | Real screen capture | Select the folder in the actual research tool. | Show actual control and selection state; crop in editor if required. | Narration timed to actions. |
-| 1:11–1:29 | Real screen capture | Ask a focused question and submit. | Type and show the exact prompt, then submit in the real tool. | Keep any wait honest; show a short progress beat if needed. |
-| 1:29–1:44 | Real screen capture | Verify a claim by opening its source. | Display actual generated response and open one actual source. | No fake answer; narrator explains limits. |
-| 1:44–1:56 | Host | Recap the method. | Same host set/wardrobe. | Natural, concise delivery. |
-| 1:56–2:00 | Title card | One takeaway. | “Small sources. Focused question. Checked answer.” Added in post. | Music only if quiet. |
+| 0:00–0:06 | Real document + app capture | Preview the final decision brief and its source references. | Show actual DOCX final brief open in Word, then source-reference table. | Host VO; brief push-in in editor. |
+| 0:06–0:10 | Optional Veo insert | Visual transition from loose notes to an organized file pack. | Veo overhead blank pages being sorted into a folder; no readable text. | Silent or subtle paper sound. |
+| 0:10–0:24 | Host | Explain the goal and disclose that the sample files were prepared first. | Presenter at desk; add title in editor. | Direct-to-camera. |
+| 0:24–0:40 | Real DOCX capture | Introduce the source minutes, survey, and budget note. | Open each actual sample file; highlight status, sample-size limitation, and cost assumptions. | Same voiceover; slow cursor. |
+| 0:40–0:52 | Host | Explain why consistent sample data makes a better demo. | Host returns, same framing. | Hard cut at sentence boundary. |
+| 0:52–1:13 | Real app capture | Load the three source files into the actual selected research app. | Show real app controls and selected files; filenames must match the pack. | Narration timed to genuine actions. |
+| 1:13–1:29 | Real app capture | Ask for a concise decision brief with file-based references. | Enter a focused prompt and submit; show progress honestly. | No fabricated UI or instant-completion claim. |
+| 1:29–1:45 | Real app + DOCX capture | Verify one conclusion and one figure against the original documents. | Compare 59/86 = 68.6% and $6,850 setup estimate with the sources. | Crop for detail, return to full context. |
+| 1:45–1:56 | Host | Recap: create believable source docs first, synthesize second, verify third. | Presenter delivers concise close. | Natural speech. |
+| 1:56–2:00 | End card | One takeaway. | “Prepare the sources. Build the brief. Check the evidence.” | Text added in editor. |
 
-## Important production distinction
+## Status
 
-UI labels in the script are conceptual until a specific product has been chosen and checked. The tutorial must use real screen recording for every product action. Veo inserts only supply visual atmosphere; generated screen text is not used as proof of an actual feature.
+The sample document pack is provided as editable DOCX files locally and as screen-ready examples in the repo when included. Veo clips and a finished tutorial video still need to be generated and edited.
 
