@@ -1,6 +1,6 @@
 # Sample narration: Build and check a decision brief from example files
 
-**Approximate duration:** 1:50 spoken content plus short visual beats in a 2:00 cut. The example pack is fictional training material prepared before recording.
+**Approximate duration:** 1:50 spoken content plus short visual beats in a 2:00 cut. The example pack is invented training material prepared before recording.
 
 ## 0:00 — Result preview (voiceover over the actual final document)
 
@@ -8,7 +8,7 @@ This decision brief pulls together meeting minutes, an informal survey, and a pl
 
 ## 0:10 — Presenter
 
-I prepared these sample documents first so the example has realistic source material. They describe a fictional community garden proposal. The figures and people are invented, and the files are labeled as training examples.
+I prepared these sample documents first so the example has realistic source material. They describe a invented community garden proposal. The figures and people are invented, and the files are labeled as training examples.
 
 ## 0:24 — Source document capture
 
