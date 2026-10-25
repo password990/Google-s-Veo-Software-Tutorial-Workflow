@@ -4,14 +4,14 @@
 
 ## Example document pack created before filming
 
-The pack contains four internally linked fictional records for a proposed Riverside Hall community garden pilot in Northbridge:
+The pack contains four internally linked example records for a proposed Riverside Hall community garden pilot in Northbridge:
 
 1. `01_Pilot_Planning_Meeting_Minutes.docx` — decision boundaries, conditions, owners, and due dates.
 2. `02_Neighbourhood_Pulse_Survey_Summary.docx` — 86 informal responses, calculated shares, limitations, and planning themes.
 3. `03_Pilot_Budget_and_Operating_Note.docx` — itemized one-time and annual estimates with assumptions and exclusions.
 4. `04_Riverside_Garden_Pilot_Decision_Brief.docx` — a recommendation grounded in the first three files, not a site approval or spending authorization.
 
-These files use invented people, project details, figures, dates, and roles. Each carries a visible fictional-training label. The DOCX versions are polished, editable example files; matching screen-ready versions are available in `documents/` where included.
+These files use invented people, project details, figures, dates, and roles. Each carries a visible example-document label. The DOCX versions are polished, editable example files; matching screen-ready versions are available in `documents/` where included.
 
 ## Consistency ledger
 
