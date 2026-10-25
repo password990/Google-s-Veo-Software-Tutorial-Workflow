@@ -1,4 +1,4 @@
-# Fictional document pack manifest and consistency ledger
+# Invented document pack manifest and consistency ledger
 
 **Scenario:** Northbridge Neighbourhood Association is considering whether to prepare a feasibility proposal for a four-bed community garden at Riverside Hall. This is an invented training scenario. No real organization, people, site approval, survey, quote, or funding decision is represented.
 
@@ -11,7 +11,7 @@
 | `03_Pilot_Budget_and_Operating_Note.docx` | DOCX | Estimates and assumptions | Invented planning estimate |
 | `04_Riverside_Garden_Pilot_Decision_Brief.docx` | DOCX | Final synthesis shown in the video | The three source files |
 
-All files carry a visible fictional-training label. The example organization uses no real brand identity. The tutorial should open these actual files in the chosen document/research software; don't recreate their contents inside a fake UI.
+All files carry a visible example-document label. The example organization uses no real brand identity. The tutorial should open these actual files in the chosen document/research software; don't recreate their contents inside a fake UI.
 
 ## Locked facts
 
